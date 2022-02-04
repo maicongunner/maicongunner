@@ -13,7 +13,7 @@ and/or with whom I am working, I like to work as a team and I am committed to de
  
 
 - 🔭 I’m currently studying bootcamp GoStack at Rocketseat.
-- 🌱 I’m currently learning TypeScript, Node.js, React Native and React.
+- 🌱 I’m currently learning TypeScript, Node.js, and React Native.
 - ⚡ Languages: JavaScript, HTML5, CSS3 and others...
 - 💬 Ask me about: tech, series, movies, investments and personal development
 
